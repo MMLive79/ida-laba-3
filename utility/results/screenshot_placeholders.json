@@ -1,0 +1,62 @@
+[
+  {
+    "label": "С1",
+    "figure": 1,
+    "instruction": "Ячейка 01_данные_статистика_корреляция: df.head(), df.describe(), размер и проверка качества."
+  },
+  {
+    "label": "С2",
+    "figure": 2,
+    "instruction": "Ячейка 01_данные_статистика_корреляция: таблица corr."
+  },
+  {
+    "label": "С3",
+    "figure": 4,
+    "instruction": "Ячейка 02_линейные_прогнозы_метрики_коэффициенты: вывод таблиц прогнозов по x1 и x2."
+  },
+  {
+    "label": "С4",
+    "figure": 5,
+    "instruction": "Ячейка 02_линейные_прогнозы_метрики_коэффициенты: linear_metrics и напечатанные уравнения."
+  },
+  {
+    "label": "С5",
+    "figure": 9,
+    "instruction": "Ячейка 04_полином_выбор_по_CV: таблица selection и выбранные параметры."
+  },
+  {
+    "label": "С6",
+    "figure": 10,
+    "instruction": "Ячейка 05_полином_метрики_графики_вывод: poly_metrics и poly_predictions."
+  },
+  {
+    "label": "С7",
+    "figure": 13,
+    "instruction": "Ячейка 06_зарплата_загрузка_аудит_гистограмма: salary.head(), info(), describe() и audit."
+  },
+  {
+    "label": "С8",
+    "figure": 15,
+    "instruction": "Ячейка 07_разбиение_обработка_выбросов: размеры выборок, outlier_table и границы salary."
+  },
+  {
+    "label": "С9",
+    "figure": 19,
+    "instruction": "Ячейка 09_зарплата_линейная_коэффициенты: salary_linear_predictions и четыре метрики."
+  },
+  {
+    "label": "С10",
+    "figure": 20,
+    "instruction": "Ячейка 09_зарплата_линейная_коэффициенты: transformed, coef, свободный член и базовые категории."
+  },
+  {
+    "label": "С11",
+    "figure": 23,
+    "instruction": "Ячейка 10_knn_дерево_сравнение: лучшие параметры, MAE CV и salary_predictions."
+  },
+  {
+    "label": "С12",
+    "figure": 24,
+    "instruction": "Ячейки 10_knn_дерево_сравнение и 11_сравнительные_графики_диагностика: salary_metrics и diagnostic_metrics."
+  }
+]

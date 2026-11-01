@@ -1,0 +1,13 @@
+﻿,params,mean_test_score,std_test_score,rank_test_score
+0,"{'model__max_depth': 2, 'model__min_samples_leaf': 5}",-38969.54280920973,6159.59774762604,1
+1,"{'model__max_depth': 2, 'model__min_samples_leaf': 20}",-39565.23673468937,5289.238589230825,2
+2,"{'model__max_depth': 2, 'model__min_samples_leaf': 50}",-39674.76259918028,5623.874538359254,3
+3,"{'model__max_depth': 4, 'model__min_samples_leaf': 5}",-40608.70061938725,6313.712962579503,4
+4,"{'model__max_depth': 4, 'model__min_samples_leaf': 20}",-42436.471680010116,5720.793836350309,9
+5,"{'model__max_depth': 4, 'model__min_samples_leaf': 50}",-42268.519884606,5832.260517153778,6
+6,"{'model__max_depth': 6, 'model__min_samples_leaf': 5}",-42430.29863262484,6915.427913977778,8
+7,"{'model__max_depth': 6, 'model__min_samples_leaf': 20}",-43815.75944828019,5699.498085790291,10
+8,"{'model__max_depth': 6, 'model__min_samples_leaf': 50}",-42136.4255578761,5500.077772444711,5
+9,"{'model__max_depth': None, 'model__min_samples_leaf': 5}",-44252.290339159765,5882.781386661859,12
+10,"{'model__max_depth': None, 'model__min_samples_leaf': 20}",-43827.59492976662,4819.123970046483,11
+11,"{'model__max_depth': None, 'model__min_samples_leaf': 50}",-42312.79487423772,5268.737904266798,7

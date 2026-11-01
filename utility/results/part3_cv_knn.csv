@@ -1,0 +1,9 @@
+﻿,params,mean_test_score,std_test_score,rank_test_score
+0,"{'model__n_neighbors': 5, 'model__weights': 'uniform'}",-41346.04267569931,4715.024983150274,7
+1,"{'model__n_neighbors': 5, 'model__weights': 'distance'}",-41460.83603342548,4494.585905572635,8
+2,"{'model__n_neighbors': 15, 'model__weights': 'uniform'}",-40014.680728479856,4459.270520040565,6
+3,"{'model__n_neighbors': 15, 'model__weights': 'distance'}",-39965.61930921807,4350.376327696335,5
+4,"{'model__n_neighbors': 35, 'model__weights': 'uniform'}",-38527.08674258727,4201.706424940137,4
+5,"{'model__n_neighbors': 35, 'model__weights': 'distance'}",-38484.19077457402,4179.1447364598325,3
+6,"{'model__n_neighbors': 75, 'model__weights': 'uniform'}",-37641.37118940253,4834.531546185891,2
+7,"{'model__n_neighbors': 75, 'model__weights': 'distance'}",-37568.43976823204,4794.9124395904855,1

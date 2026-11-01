@@ -1,0 +1,16 @@
+﻿,Тип,Пропуски,Уникальных
+age,int64,0,52
+income,float64,0,1500
+experience,int64,0,40
+score_test,float64,0,1500
+hours_worked,int64,0,60
+distance_to_work,float64,0,1500
+savings,float64,0,1500
+debt,float64,0,1500
+education,str,0,4
+city,str,0,5
+job_type,str,0,5
+marital_status,str,0,3
+car,str,0,2
+remote_work,str,0,2
+salary,float64,0,1500
